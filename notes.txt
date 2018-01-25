@@ -1,0 +1,32 @@
+Definitions:
+
+Sexual Offender
+n. generic term for all persons convicted of crimes involving sex, including rape, molestation, sexual harassment and pornography production or distribution. In mosst states convicted sex offenders are supposed to report to local police authorities, but many do not. (See: rape, molestation, sexual harassment, pornography)
+https://legal-dictionary.thefreedictionary.com/sex+offender
+
+Sexual harassment
+
+Sex discrimination
+
+Molestation
+n. the crime of sexual acts with children up to the age of 18, including touching of private parts, exposure of genitalia, taking of pornographic pictures, rape, inducement of sexual acts with the molester or with other children, and variations of these acts by pedophiles. Molestation also applies to incest by a relative with a minor family member, and any unwanted sexual acts with adults short of rape. (See: pedophilia, rape)
+https://legal-dictionary.thefreedictionary.com/molestation
+
+Rape
+Rape is the commission of unlawful sexual intercourse or unlawful sexual intrusion. Rape laws in the United States have been revised over the years, and they vary from state to state.
+https://legal-dictionary.thefreedictionary.com/rape
+
+Pedophilia
+n. an obsession with children as sex objects. Overt acts, including taking sexual explicit photographs, molesting children, and exposing one's genitalia to children are all crimes. The problem with these crimes is that pedophilia is also treated as a mental illness, and the pedophile is often released only to repeat the crimes or escalate the activity to the level of murder. (See: molestation, rape, pornography)
+https://legal-dictionary.thefreedictionary.com/pedophilia
+
+
+Data:
+- sexual offenders
+- individuals who have been accused of sexual assault, rape, pedophilia
+
+
+Questions:
+What databases exist that can be leveraged?
+
+Does a list of accused sexual abusers exist or is it necessary to create?
